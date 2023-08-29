@@ -1,30 +1,31 @@
-# hackerearth-Interview
-# Application
+# Interview Experience at HackerEarth
 
-- **Date:** August 2021
-- **Location:** Calcutta (Interview at HackerEarth)
-- **Application Method:** Online
+**Date:** August 2021  
+**Location:** Calcutta (Interview at HackerEarth)  
+**Application Method:** Online
 
-# Interview
+## Interview Overview
 
-- **Interview Process:** Smooth
-- **Duration:** 50 minutes
-- **Interviewer:** Friendly and Cool
+**Interview Process:** Smooth  
+**Duration:** 50 minutes  
+**Interviewer:** Friendly and Cool  
 
-## Interview Questions
+### Interview Questions
+
+The interview covered a range of topics, including coding challenges and questions related to React, CSS, and web development. Here are some of the questions asked:
 
 1. Create a function for deep object comparison.
 2. Implement a modal in React.
-3. Create a button toggles in React.
+3. Create a button toggle in React.
 4. Answer CSS and JavaScript output questions.
 
-# Questions
+### Notable Questions
 
 1. **What are clear floats in CSS?**
 
 2. **Life cycle methods of React**
 
-3. **What is doctype?**
+3. **What is a doctype?**
 
 4. **How would you design a new browser?**
 
@@ -32,21 +33,22 @@
 
 6. **How to design a Pac-Man game?**
 
-# Online Assessment Details
+## Online Assessment Details
 
-- **Content:** The online assessment consists of JavaScript output questions, CSS questions, React questions, and code analysis for time complexity.
-- **Note:** Be cautious as there is negative marking for incorrect answers.
+**Content:** The online assessment consisted of JavaScript output questions, CSS questions, React questions, and code analysis for time complexity. It's important to note that there was negative marking for incorrect answers.
 
-# Interview Insights
+## Interview Insights
 
-- **Previous Interview Experience:** The candidate had a previous interview for the same profile six months ago but was rejected.
-- **Interview Focus:** The emphasis is on problem-solving and data structures. Regular practice on platforms like LeetCode is recommended.
-- **Preparation Focus:**
-  - a. **Basic CSS Questions:** Expect questions like how to center an element.
-  - b. **React Knowledge:** If React is mentioned on your resume, thorough understanding of React documentation and its lifecycle methods is essential.
-- **Best Wishes:** Best of luck with your preparations! 
+**Previous Interview Experience:** The candidate had a previous interview for the same profile six months ago but was rejected.
 
-**Note:** The candidate was also curious about the nature of questions in the online assessment and inquired if they were similar to LeetCode questions.
+**Interview Focus:** The interview primarily emphasized problem-solving and data structures. It is recommended to regularly practice on platforms like LeetCode to prepare effectively.
 
+**Preparation Focus:**
+- **Basic CSS Questions:** Be prepared for questions related to CSS fundamentals, such as centering elements.
+- **React Knowledge:** If React is mentioned on your resume, ensure a thorough understanding of React documentation and its lifecycle methods.
 
+## Best Wishes
 
+Best of luck with your preparations! Remember to focus on problem-solving skills, data structures, and a strong grasp of CSS and React. Your commitment to practice, especially on platforms like LeetCode, will likely contribute to your success.
+
+**Note:** The candidate also inquired about the nature of questions in the online assessment and wondered if they were similar to LeetCode questions.
